@@ -1,0 +1,22 @@
+
+table{
+    
+    width: 1000px;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid 1px black;
+    border-collapse: collapse;
+    }
+    th{
+    border: solid 1px black;
+    background: white;
+    
+    }
+    td{
+    border: solid 1px black;
+    text-align: center;
+    padding: 10px;
+    }
+
+   
